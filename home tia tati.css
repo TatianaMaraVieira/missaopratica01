@@ -1,0 +1,58 @@
+#menu {
+  display: flex;
+  background-color: #000000; /* Cor de fundo do menu */
+}
+
+#menu a {
+  padding: 10px 20px; /* Espaço ao redor do texto do link */
+  color: #ffffff; /* Cor do texto no menu */
+  text-decoration: none; /* Sem sublinhado dos links */
+}
+
+.center-image {
+  display: block;
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
+
+p {
+  font-size: 22px;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  background-color: #84d7c4; /* Cor de fundo do corpo */
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  text-align: center; /* Centraliza o texto do rodapé */
+  background-color: #000000; /* Cor de fundo do rodapé */
+  color: #ffffff; /* Cor do texto no rodapé */
+  padding: 10px 0; /* Espaço acima e abaixo do texto do rodapé */
+}
+
+footer {
+  margin-top: auto;
+}
+
+.container {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente o conteúdo */
+  justify-content: center; /* Centraliza horizontalmente o conteúdo */
+  height: 300px; /* Altura do contêiner */
+}
+
+h1 {
+  color: rgb(16, 66, 37);
+  text-align: center;
+}
+
+p {
+  text-align: center; /* Centraliza o texto horizontalmente */
+}

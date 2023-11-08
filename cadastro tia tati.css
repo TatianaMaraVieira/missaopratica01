@@ -1,0 +1,9 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 0;
+  width: 100%; /* Faz o rodapé ocupar toda a largura da página */
+}
